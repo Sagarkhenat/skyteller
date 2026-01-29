@@ -1,0 +1,7 @@
+{
+  "name": "skyteller",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
