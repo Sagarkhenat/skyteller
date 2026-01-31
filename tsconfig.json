@@ -14,8 +14,9 @@
     "sourceMap": true,
     "declaration": false,
     "experimentalDecorators": true,
-    "moduleResolution": "node",
-    "ignoreDeprecations": "6.0",
+    "moduleResolution": "node16", // or "nodenext"
+    "module": "Node16",
+    "ignoreDeprecations": "5.0",
     "importHelpers": true,
     "target": "es2022",
     "module": "es2020",

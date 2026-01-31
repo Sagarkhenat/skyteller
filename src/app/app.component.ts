@@ -2,7 +2,6 @@ import { Component } from '@angular/core';
 import { IonApp, IonRouterOutlet } from '@ionic/angular/standalone';
 import { Nav, Platform, Events, AlertController, IonicApp ,MenuController} from 'ionic-angular';
 import { App } from 'ionic-angular/components/app/app';
-import { Subscription } from 'rxjs';
 
 @Component({
   selector: 'app-root',
